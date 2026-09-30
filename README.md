@@ -1,24 +1,23 @@
-### 💫 About Me
 **Hi there, I'm Amira Rais 👋**
 
 👩🏻‍💻 **Software Developer** | 🔒 Aspiring **Cloud & Cybersecurity Engineer** | 🎮 Indie Game Dev Enthusiast
 
 ---
 
-#### 🚀 Profile & Goals
+### 🚀 Profile & Goals
 - 🎓 Held a **Bachelor’s Degree in Software** & currently pursuing a **Degree in Computer Engineering**
 - 👥 Currently collaborating on a **Driving School Management System** project
 - 🎮 Exploring **Game Development** with **Godot**
 - 💬 Ask me about **Software Development, OOP, or Architecture**
 - 🎯 **Career Goal:** To become a specialized **Cloud Cybersecurity Engineer**
 
-#### 💻 Tech & Skills
+### 💻 Tech & Skills
 - **Core & Web:** C++, Java, JavaScript, Python, HTML/CSS
 - **Frameworks:** Ionic, Flutter, React
 - **Game Dev:** Godot, GDScript
 - **Interests:** Cloud Architecture, Network Security, System Design
 
-#### ⚡ Beyond Coding
+### ⚡ Beyond Coding
 - 📚 Reading manga & watching anime in my free time
 - ☕ Coffee-driven problem solver
 - 🧩 Passionate about puzzles and CTF (Catch The Flag) challenges
